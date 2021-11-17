@@ -1,0 +1,21 @@
+.form {
+flex-direction: row;
+display: flex;
+justify-content: space-around
+}
+
+.label {
+padding: 10px;
+}
+
+.field{
+    width: 150px;
+}
+
+.submitButton{
+    width: 150px;
+    background-color: #000552;
+    color: #f7e702;
+    border-radius: 12px;
+
+}
